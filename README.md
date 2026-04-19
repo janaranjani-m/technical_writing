@@ -1,2 +1,4 @@
-# technical_writing
+ # technical_writing
 Techinal writing Learning Repo
+
+ ## Adding Additional Detail
